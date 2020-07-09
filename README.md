@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hey 👋, I'm Brian!
+
+I'm currently a 4th year student at the University of Virginia. This summer, I'm interning Stripe and in my free time I'm working through this [distributed systems course](https://pdos.csail.mit.edu/6.824/).
+
+Feel free to tweet me [@brianyu8](https://twitter.com/brianyu8) or browse my [blog](https://byu.io).
 
 <!--
 **brian-yu/brian-yu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
