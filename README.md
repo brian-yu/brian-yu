@@ -1,6 +1,6 @@
 ### Hey 👋, I'm Brian!
 
-I'm currently a 4th year student at the University of Virginia. This summer, I'm interning Stripe and in my free time I'm working through this [distributed systems course](https://pdos.csail.mit.edu/6.824/).
+I'm a 4th year student at the University of Virginia. This summer, I'm interning at Stripe. In my free time I'm currently working through this [distributed systems course](https://pdos.csail.mit.edu/6.824/).
 
 Feel free to tweet me [@brianyu8](https://twitter.com/brianyu8) or browse my [blog](https://byu.io).
 
