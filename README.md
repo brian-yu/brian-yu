@@ -1,8 +1,8 @@
 ### Hey 👋, I'm Brian!
 
-I'm a 4th year student at the University of Virginia. <!-- I'm currently interning at Affirm and have interned at Google and Stripe in the past. -->
+I'm a 4th year student at the University of Virginia. I'll be working at Stripe starting this summer and have interned at Affirm and Google in the past.
 
-Feel free to tweet me [@brianyu8](https://twitter.com/brianyu8) or browse my [blog](https://byu.io).
+Feel free to tweet me [@brianyu8](https://twitter.com/brianyu8) or browse my [blog](https://brian.lol).
 
 <!--![octocat!](https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif) -->
 
